@@ -1,0 +1,112 @@
+{
+    "msg": "操作成功",
+    "code": 0,
+    "data": {
+        "companyList": [
+            {
+                "folderName": "上海运维",
+                "folderKey": "home",
+                "children": [
+                    {
+                        "id": 443,
+                        "parentId": 100,
+                        "ancestors": "0,100",
+                        "folderName": "公司1",
+                        "children": [
+                            {
+                                "id": 445,
+                                "parentId": 443,
+                                "ancestors": "0,100,443",
+                                "folderName": "油站1",
+                                "children": [
+                                    {
+                                        "id": 447,
+                                        "parentId": 445,
+                                        "ancestors": "0,100,443,445",
+                                        "folderName": "加油枪",
+                                        "children": [
+                                            {
+                                                "id": 449,
+                                                "parentId": 447,
+                                                "ancestors": "0,100,443,445,447",
+                                                "folderName": "油枪1",
+                                                "children": []
+                                            },
+                                            {
+                                                "id": 450,
+                                                "parentId": 447,
+                                                "ancestors": "0,100,443,445,447",
+                                                "folderName": "油枪2",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": 448,
+                                        "parentId": 445,
+                                        "ancestors": "0,100,443,445",
+                                        "folderName": "加油机",
+                                        "children": [
+                                            {
+                                                "id": 451,
+                                                "parentId": 448,
+                                                "ancestors": "0,100,443,445,448",
+                                                "folderName": "油机1",
+                                                "children": []
+                                            },
+                                            {
+                                                "id": 452,
+                                                "parentId": 448,
+                                                "ancestors": "0,100,443,445,448",
+                                                "folderName": "油机2",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 446,
+                                "parentId": 443,
+                                "ancestors": "0,100,443",
+                                "folderName": "油站2",
+                                "children": [
+                                    {
+                                        "id": 453,
+                                        "parentId": 446,
+                                        "ancestors": "0,100,443,446",
+                                        "folderName": "地泵",
+                                        "children": [
+                                            {
+                                                "id": 454,
+                                                "parentId": 453,
+                                                "ancestors": "0,100,443,446,453",
+                                                "folderName": "泵1",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 444,
+                        "parentId": 100,
+                        "ancestors": "0,100",
+                        "folderName": "公司2",
+                        "children": [
+                            {
+                                "id": 455,
+                                "parentId": 444,
+                                "ancestors": "0,100,444",
+                                "folderName": "油站3",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
